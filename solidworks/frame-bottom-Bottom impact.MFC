@@ -1,0 +1,16 @@
+[StartTime]
+frame-bottom-Bottom impact.MFC=13s
+[SolverState]
+frame-bottom-Bottom impact.MFC=2
+[MainFrame]
+frame-bottom-Bottom impact.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+frame-bottom-Bottom impact.MFC=No
+[SolverType]
+frame-bottom-Bottom impact.MFC=Linear Analysis
+[StudyType]
+frame-bottom-Bottom impact.MFC=0
+[StudyName]
+frame-bottom-Bottom impact.MFC=Bottom impact
+[Solver]
+frame-bottom-Bottom impact.MFC=Iterative
