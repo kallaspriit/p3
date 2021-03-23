@@ -1,1 +1,14 @@
+# temporary files
 ~$*
+
+# simulation files
+*.DSP
+*.ELF
+*.GEN
+*.IDA
+*.LCD
+*.MAX
+*.OUT
+*.PCO
+*.STE
+*.STG
