@@ -12,3 +12,8 @@
 *.PCO
 *.STE
 *.STG
+*.LOG
+*.CWR
+*.MFC
+*.PGF
+PerformanceLog.txt
