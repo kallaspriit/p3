@@ -16,4 +16,10 @@
 *.CWR
 *.MFC
 *.PGF
+*.BD2
+*.BDF
+*.GCF
+*.LDS
+*.MAS
+*.SL3
 PerformanceLog.txt
