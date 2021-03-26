@@ -22,4 +22,5 @@
 *.LDS
 *.MAS
 *.SL3
+*.MS2
 PerformanceLog.txt
